@@ -1,0 +1,13 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="main.css" />
+#+OPTIONS: toc:nil
+#+options: num:nil
+#+OPTIONS: html-postamble:nil
+
+#+TITLE: Goldolphin's Homepage
+
+* My projects
+
+** Cate
+*Cate* represents Continuation based Asynchronous Task Executor. It provides some abstraction for parallel task scheduling to let you write asynchronous programming codes in a synchronous-like style.
+
+/Learn more from project homepage: [[https://github.com/goldolphin/cate]]/
