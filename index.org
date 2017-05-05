@@ -18,6 +18,11 @@
 /Learn more from project homepage: [[https://github.com/goldolphin/bran]]/
 
 ** Maria
-   *Maria* is a simple HTTP protocol stack based on netty.
+   *Maria* is a simple HTTP protocol stack and RPC framework based on netty.
 
 /Learn more from project homepage: [[https://github.com/goldolphin/maria]]/
+
+** Nettle
+   *Nettle* is a network-accelerating tunnel over multiple IP links.
+
+/Learn more from project homepage: [[https://github.com/goldolphin/nettle]]/
