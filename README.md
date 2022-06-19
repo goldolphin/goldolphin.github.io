@@ -1,4 +1,1 @@
-goldolphin.github.io
-====================
-
-goldolphin's
+Goldolphin’s Homepage
