@@ -1,6 +1,5 @@
 ---
-title: Goldolphin’s Homepage
-description: 
+title: Home
 ---
 
 ## Projects
