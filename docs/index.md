@@ -1,7 +1,3 @@
----
-title: Goldolphin’s Homepage
----
-
 ## Projects
 
 ### MIN
