@@ -1,6 +1,4 @@
-# Goldolphin's Homepage
-
-## My projects
+## Projects
 
 ### MIN
    **MIN** is a simple bytecode instruction set and its embeddable VM written in modern C++(17).
